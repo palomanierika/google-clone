@@ -1,7 +1,7 @@
 # google-clone
 This is my first project, is a recreation of Google homepage using only HTML and CSS. 
 
-Key Features:
+# Key Features:
 
 Pure HTML/CSS: The entire project relies exclusively on HTML for structure and CSS for styling, providing a clear and concise example of creating a visually rich web page without the need for JavaScript.
 
@@ -12,5 +12,5 @@ Visual Fidelity: Every effort has been made to capture the visual essence of the
 How to Contribute:
 Contributions are more than welcome! If you have suggestions to enhance the design or improve the code, please submit a pull request. Be sure to adhere to the best practices of HTML and CSS coding and provide documentation for your changes.
 
-Important Notes:
+# Important Notes:
 This project is designed solely for educational purposes, showcasing the possibilities of HTML and CSS in web development without the need for JavaScript.
